@@ -2,6 +2,8 @@
 
 # Custom HR Module by Augusto Calado
 
+# 17h22
+
 from odoo import models, fields
 
 class HrEmployeeExtension(models.Model):
