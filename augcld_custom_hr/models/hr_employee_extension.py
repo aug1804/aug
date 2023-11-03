@@ -2,7 +2,7 @@
 
 # Custom HR Module by Augusto Calado
 
-# 17h22
+# 17h23
 
 from odoo import models, fields
 
